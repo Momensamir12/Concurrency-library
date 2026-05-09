@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/parallel_accumulate.dir/src/parallel_accumulate.cpp.o -o parallel_accumulate
