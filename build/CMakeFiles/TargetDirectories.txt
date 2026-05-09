@@ -1,3 +1,0 @@
-/home/as/parallel_programming/build/CMakeFiles/parallel_accumulate.dir
-/home/as/parallel_programming/build/CMakeFiles/edit_cache.dir
-/home/as/parallel_programming/build/CMakeFiles/rebuild_cache.dir

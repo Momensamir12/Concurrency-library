@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/as/parallel_programming/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
