@@ -1,0 +1,5 @@
+/home/as/parallel_programming/build/CMakeFiles/test_thread_safe_queue.dir
+/home/as/parallel_programming/build/CMakeFiles/bench_array_lock_cached.dir
+/home/as/parallel_programming/build/CMakeFiles/bench_array_lock_raw.dir
+/home/as/parallel_programming/build/CMakeFiles/edit_cache.dir
+/home/as/parallel_programming/build/CMakeFiles/rebuild_cache.dir

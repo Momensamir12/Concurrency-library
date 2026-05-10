@@ -2,4 +2,13 @@ cmake_minimum_required(VERSION 3.10)
 
 project(ParallelProgramming)
 
-add_executable(parallel_accumulate src/parallel_accumulate.cpp)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_CXX_EXTENSIONS OFF)
+
+add_executable(test_thread_safe_queue tests/test_thread_safe_queue.cpp)
+add_executable(bench_array_lock_cached tests/bench_array_lock_cached.cpp)
+add_executable(bench_array_lock_raw tests/bench_array_lock_raw.cpp)
+target_include_directories(test_thread_safe_queue PRIVATE src)
+target_include_directories(bench_array_lock_cached PRIVATE src)
+target_include_directories(bench_array_lock_raw PRIVATE src)
