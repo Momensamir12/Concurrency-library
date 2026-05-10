@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/bench_array_lock.dir/tests/bench_array_lock.cpp.o -o bench_array_lock
